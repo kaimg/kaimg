@@ -31,15 +31,6 @@
 - **Sports League Management System** - Flask-based sports statistics platform
 - **Roommate Matching App** - React Native mobile application
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kaimg&show_icons=true&theme=radical" alt="kaimg" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kaimg&theme=radical" alt="kaimg" />
-</p>
-
 ### 🌐 Connect with me
 <p align="left">
 <a href="https://linkedin.com/in/kaimq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kaimq" height="30" width="40" /></a>
