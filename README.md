@@ -36,5 +36,16 @@
 <a href="https://linkedin.com/in/kaimq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kaimq" height="30" width="40" /></a>
 </p>
 
+### 🔭 Certifications
+
+- [Python Kaggle Certificate](https://www.kaggle.com/learn/certification/kamrangayibov/python)
+- [Intro to SQL Kaggle Certificate](https://www.kaggle.com/learn/certification/kamrangayibov/intro-to-sql)
+- [Pandas Kaggle Certificate](https://www.kaggle.com/learn/certification/kamrangayibov/pandas)
+- [Data Cleaning Kaggle Certificate](https://www.kaggle.com/learn/certification/kamrangayibov/data-cleaning)
+- [Python (Basic) Hackerrank Certificate](https://www.hackerrank.com/certificates/c5e3f70b50be)
+- [SQL (Basic) Hackerrank Certificate](https://www.hackerrank.com/certificates/8c829f13f5e0)
+- [SQL (Intermediate) Hackerrank Certificate](https://www.hackerrank.com/certificates/ee1b09b5a1d3)
+- [Rest API (Intermediate) Hackerrank Certificate](https://www.hackerrank.com/certificates/1b6424927551)
+
 ---
 <p align="center">🎓 BSc in Information Systems Engineering from Istanbul Technical University</p>
