@@ -14,16 +14,25 @@
 - 📫 Reach me at **gayibov.kamran@gmail.com**
 
 ### 🛠️ Tech Stack
-<p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" alt="django" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+
+#### 💻 Languages & Frameworks
+
+<p align="left" style="margin-bottom: 16px;">
+  <img src="https://skillicons.dev/icons?i=python,go,js,ts,django,flask,fastapi,bash,react,htmx,c,cpp,cs" height="42" style="margin-right:8px;" />
 </p>
+
+#### 🗄️ Databases
+
+<p align="left" style="margin-bottom: 16px;">
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,sqlite" height="42" style="margin-right:8px;" />
+</p>
+
+#### ⚙️ Tools & Platforms
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=docker,git,linux,nginx" height="42" style="margin-right:8px;" />
+</p>
+
 
 ### 🏆 Recent Projects
 - **LLM Chatbot Platform** - Go-based chatbot with LLM integration
@@ -33,7 +42,7 @@
 
 ### 🌐 Connect with me
 <p align="left">
-<a href="https://linkedin.com/in/kaimq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kaimq" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/kaimq" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="kaimq" hheight="42" style="margin-right:8px;" /></a>
 </p>
 
 ### 🔭 Certifications
