@@ -55,6 +55,7 @@
 - [SQL (Basic) Hackerrank Certificate](https://www.hackerrank.com/certificates/8c829f13f5e0)
 - [SQL (Intermediate) Hackerrank Certificate](https://www.hackerrank.com/certificates/ee1b09b5a1d3)
 - [Rest API (Intermediate) Hackerrank Certificate](https://www.hackerrank.com/certificates/1b6424927551)
+- [Data Visualization Kaggle Certificate](https://www.kaggle.com/learn/certification/kamrangayibov/data-visualization)
 
 ---
 <p align="center">🎓 BSc in Information Systems Engineering from Istanbul Technical University</p>
