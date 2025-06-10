@@ -49,6 +49,7 @@
 
 - [Python Kaggle Certificate](https://www.kaggle.com/learn/certification/kamrangayibov/python)
 - [Intro to SQL Kaggle Certificate](https://www.kaggle.com/learn/certification/kamrangayibov/intro-to-sql)
+- [Advanced Kaggle Certificate](https://www.kaggle.com/learn/certification/kamrangayibov/advanced-sql)
 - [Pandas Kaggle Certificate](https://www.kaggle.com/learn/certification/kamrangayibov/pandas)
 - [Data Cleaning Kaggle Certificate](https://www.kaggle.com/learn/certification/kamrangayibov/data-cleaning)
 - [Python (Basic) Hackerrank Certificate](https://www.hackerrank.com/certificates/c5e3f70b50be)
